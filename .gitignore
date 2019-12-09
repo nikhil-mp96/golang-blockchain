@@ -1,0 +1,6 @@
+# Go land Project Files
+.idea
+
+# build files
+/build
+
